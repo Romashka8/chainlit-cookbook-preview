@@ -1,0 +1,3722 @@
+{
+  "sha": "218e4f9a1837a46fcaaf40b3ca3033d71b7fe66e",
+  "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/218e4f9a1837a46fcaaf40b3ca3033d71b7fe66e",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99ed58ee876dfc2cf3e35d4a8e224cbf56d4440c",
+      "size": 172,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/99ed58ee876dfc2cf3e35d4a8e224cbf56d4440c"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d8e74cd47c22b5f0ab60816132fea911453c840",
+      "size": 1206,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2d8e74cd47c22b5f0ab60816132fea911453c840"
+    },
+    {
+      "path": "ai-web-search-linkup",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e11aa36b42e8d08c69e61ece767d5bec39de9c0",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/8e11aa36b42e8d08c69e61ece767d5bec39de9c0"
+    },
+    {
+      "path": "ai-web-search-linkup/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e398b421002a60c9cf762defecb20eead6fa378a",
+      "size": 69,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e398b421002a60c9cf762defecb20eead6fa378a"
+    },
+    {
+      "path": "ai-web-search-linkup/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fd8cda05beea7b912c7ac596b4edf8a98ca5f4b",
+      "size": 3412,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0fd8cda05beea7b912c7ac596b4edf8a98ca5f4b"
+    },
+    {
+      "path": "ai-web-search-linkup/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca614609683bc56e0a2e45603c32c538574dcfe5",
+      "size": 9804,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ca614609683bc56e0a2e45603c32c538574dcfe5"
+    },
+    {
+      "path": "ai-web-search-linkup/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "ai-web-search-linkup/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9112c8aa86b2a2f4be8d7d7cc7b1a9751ddaddec",
+      "size": 37,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9112c8aa86b2a2f4be8d7d7cc7b1a9751ddaddec"
+    },
+    {
+      "path": "anthropic-chat",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "844232b4ff38d3ac985e03b61bda018000effc7b",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/844232b4ff38d3ac985e03b61bda018000effc7b"
+    },
+    {
+      "path": "anthropic-chat/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80a79e625b3f1ce70b9c5134a7537822c6d22463",
+      "size": 18,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/80a79e625b3f1ce70b9c5134a7537822c6d22463"
+    },
+    {
+      "path": "anthropic-chat/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e7482fc707adf46734f72521a4b1a2b293ad4b1",
+      "size": 1627,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8e7482fc707adf46734f72521a4b1a2b293ad4b1"
+    },
+    {
+      "path": "anthropic-chat/anthropic.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "368ce05fa33882c90bdd6c2f71185a5aa8ac1af4",
+      "size": 89702,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/368ce05fa33882c90bdd6c2f71185a5aa8ac1af4"
+    },
+    {
+      "path": "anthropic-chat/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1371636e50e581357626da7f017ea67281c3236d",
+      "size": 874,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1371636e50e581357626da7f017ea67281c3236d"
+    },
+    {
+      "path": "anthropic-chat/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f1d537e6e3ad2b867d54c706edbea43a33f9261",
+      "size": 399,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/5f1d537e6e3ad2b867d54c706edbea43a33f9261"
+    },
+    {
+      "path": "anthropic-chat/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d5646efe83245bb6ab81cad57ed02c24d8b36c5e",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/d5646efe83245bb6ab81cad57ed02c24d8b36c5e"
+    },
+    {
+      "path": "anthropic-chat/public/avatars",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "69fc266f6296e14029693c709c3792c1b6b42214",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/69fc266f6296e14029693c709c3792c1b6b42214"
+    },
+    {
+      "path": "anthropic-chat/public/avatars/claude.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0771e62276667dab330f1275d6785e6e3ee44d0f",
+      "size": 2832,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0771e62276667dab330f1275d6785e6e3ee44d0f"
+    },
+    {
+      "path": "anthropic-chat/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a695c59333af4f663b23a8a89959c06edd0ad28",
+      "size": 18,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7a695c59333af4f663b23a8a89959c06edd0ad28"
+    },
+    {
+      "path": "anthropic-functions-streaming",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "63a37921294e79bebef621847fe48e8fda2b3bc9",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/63a37921294e79bebef621847fe48e8fda2b3bc9"
+    },
+    {
+      "path": "anthropic-functions-streaming/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7437ef33fbc048f15406704325cb55a7d53cbd0c",
+      "size": 36,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7437ef33fbc048f15406704325cb55a7d53cbd0c"
+    },
+    {
+      "path": "anthropic-functions-streaming/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "293a8fadd68ba1bdb469ed84128bfe0abb3c0229",
+      "size": 1478,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/293a8fadd68ba1bdb469ed84128bfe0abb3c0229"
+    },
+    {
+      "path": "anthropic-functions-streaming/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a292831d22e10d09277124dad1d39cc0288c331e",
+      "size": 5326,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a292831d22e10d09277124dad1d39cc0288c331e"
+    },
+    {
+      "path": "anthropic-functions-streaming/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "anthropic-functions-streaming/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31f93e8d8e41c3d4df306a214983a328597560e9",
+      "size": 1409,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/31f93e8d8e41c3d4df306a214983a328597560e9"
+    },
+    {
+      "path": "archive",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "44d90ea5851f98dfbbc380427920c0c84395115d",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/44d90ea5851f98dfbbc380427920c0c84395115d"
+    },
+    {
+      "path": "archive/agent-image-editing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e09e89bc82cb582d3a94f76c111380d64fc8bb90",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/e09e89bc82cb582d3a94f76c111380d64fc8bb90"
+    },
+    {
+      "path": "archive/agent-image-editing/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "140b9b22a38461fef153faca1f471ae7d0e24213",
+      "size": 67,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/140b9b22a38461fef153faca1f471ae7d0e24213"
+    },
+    {
+      "path": "archive/agent-image-editing/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "445371f7aa27d345979711a2da7cdd32c443afcb",
+      "size": 1658,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/445371f7aa27d345979711a2da7cdd32c443afcb"
+    },
+    {
+      "path": "archive/agent-image-editing/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8609fd330e71562b3cd8b8fcc6f1c7de68dbd217",
+      "size": 4456,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8609fd330e71562b3cd8b8fcc6f1c7de68dbd217"
+    },
+    {
+      "path": "archive/agent-image-editing/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3f37e7a54f2b1b1cae9e9cac83bc8e8d50084a1",
+      "size": 1183,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a3f37e7a54f2b1b1cae9e9cac83bc8e8d50084a1"
+    },
+    {
+      "path": "archive/agent-image-editing/rendering.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c69f1f546ab923c97c92ffe98b02c6612d706ba",
+      "size": 597733,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4c69f1f546ab923c97c92ffe98b02c6612d706ba"
+    },
+    {
+      "path": "archive/agent-image-editing/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e759c675edcdd8289831d9d140567d50d1a573bf",
+      "size": 39,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e759c675edcdd8289831d9d140567d50d1a573bf"
+    },
+    {
+      "path": "archive/agent-image-editing/tools.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2da7450490693b18f50d85c9ce9d92653f9bacd",
+      "size": 4844,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e2da7450490693b18f50d85c9ce9d92653f9bacd"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "47e643125106a8c828cc01d814090bda43110f3d",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/47e643125106a8c828cc01d814090bda43110f3d"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34c0b0ee08237636b8c3baf2699b8ef4accb554e",
+      "size": 47,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/34c0b0ee08237636b8c3baf2699b8ef4accb554e"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "013fb487139b7432755793ab016e4433db706b2a",
+      "size": 304,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/013fb487139b7432755793ab016e4433db706b2a"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d094f5f44d47e2c823a03bcc656a2d01accf782",
+      "size": 1175,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3d094f5f44d47e2c823a03bcc656a2d01accf782"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f13e7f1dea63667b886e659b422466af9fe638de",
+      "size": 1657,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f13e7f1dea63667b886e659b422466af9fe638de"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ded05a8a337167e9edee5bbf3ddcf587e40a4bb",
+      "size": 209,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7ded05a8a337167e9edee5bbf3ddcf587e40a4bb"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "746fc8f08597d680c7cdeed8b8c317e5563dbad0",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/746fc8f08597d680c7cdeed8b8c317e5563dbad0"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/data/Basics_of_finance.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "206ea779bd3a67a59d0eca678fe6176c0bc1129a",
+      "size": 1879774,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/206ea779bd3a67a59d0eca678fe6176c0bc1129a"
+    },
+    {
+      "path": "archive/groq-llama3-llamaindex-hf/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae818ccc48d79cd4e7d8e267bfa60f483eb32f4d",
+      "size": 142,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ae818ccc48d79cd4e7d8e267bfa60f483eb32f4d"
+    },
+    {
+      "path": "archive/haystack",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "87d40768e06cddf8da3e591f19db4f33fc765b19",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/87d40768e06cddf8da3e591f19db4f33fc765b19"
+    },
+    {
+      "path": "archive/haystack/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9847a1df18c1ff8797ad55b83f8c3fc2afaedef8",
+      "size": 15,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9847a1df18c1ff8797ad55b83f8c3fc2afaedef8"
+    },
+    {
+      "path": "archive/haystack/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bfbf5a6ef9806a4b7d60442226c71970faa290c",
+      "size": 1537,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3bfbf5a6ef9806a4b7d60442226c71970faa290c"
+    },
+    {
+      "path": "archive/haystack/Screenshot.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e51514a10638263ffd6baf7e57102c90f659f364",
+      "size": 216806,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e51514a10638263ffd6baf7e57102c90f659f364"
+    },
+    {
+      "path": "archive/haystack/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05abdb903c4ad94a18629d723f0bd7482b8a8af4",
+      "size": 4137,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/05abdb903c4ad94a18629d723f0bd7482b8a8af4"
+    },
+    {
+      "path": "archive/haystack/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "archive/haystack/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccb9ac88096beeea1e45b053302e4b20e8655562",
+      "size": 42,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ccb9ac88096beeea1e45b053302e4b20e8655562"
+    },
+    {
+      "path": "archive/langchain-ask-human",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "04afd192a17a5d449431090486b6075035d506c3",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/04afd192a17a5d449431090486b6075035d506c3"
+    },
+    {
+      "path": "archive/langchain-ask-human/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81116645cadb2f65a35a74f7f2cb754f9a3d465b",
+      "size": 2380,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/81116645cadb2f65a35a74f7f2cb754f9a3d465b"
+    },
+    {
+      "path": "archive/langchain-ask-human/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49f686751addf74d10330bc745eb4a52a4552e3e",
+      "size": 2688,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/49f686751addf74d10330bc745eb4a52a4552e3e"
+    },
+    {
+      "path": "archive/langchain-ask-human/ask-human.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52778a1e3f383eaf0d77de636cff09b0c6780f27",
+      "size": 2206652,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/52778a1e3f383eaf0d77de636cff09b0c6780f27"
+    },
+    {
+      "path": "archive/langchain-ask-human/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7ea0e891b3211c773ebc22c55f5ba23eb949d008",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7ea0e891b3211c773ebc22c55f5ba23eb949d008"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51009be3eed683616281570d23af20a4b4ad2435",
+      "size": 35,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/51009be3eed683616281570d23af20a4b4ad2435"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "335e9fe559dd844b4f770e81bfdd75dc5868cd70",
+      "size": 4002,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/335e9fe559dd844b4f770e81bfdd75dc5868cd70"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dbb32573e0cf75d48ca2210daf6a946a5a5c1a6",
+      "size": 7137,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9dbb32573e0cf75d48ca2210daf6a946a5a5c1a6"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/functions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "87f8e8d394e64301b6c65f5915a5eb89412de3b1",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/87f8e8d394e64301b6c65f5915a5eb89412de3b1"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/functions/FunctionManager.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddd9c91708e77963c2d188ba0520699f4d96dc1a",
+      "size": 5437,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ddd9c91708e77963c2d188ba0520699f4d96dc1a"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/functions/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7afac65ef7afdad04f7af56de31b389bf30536ce",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7afac65ef7afdad04f7af56de31b389bf30536ce"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/common",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "18e5f420ae47925723f4e72e48bfce677715a20f",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/18e5f420ae47925723f4e72e48bfce677715a20f"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/common/config.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e7e09697334ccfa3a45a8897439544099982e4",
+      "size": 24,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/60e7e09697334ccfa3a45a8897439544099982e4"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/common/functions.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9ce377e5d51c1f8f75c58a8c63b399d5cfae5b1",
+      "size": 1942,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f9ce377e5d51c1f8f75c58a8c63b399d5cfae5b1"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/python",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "83a176b924ccbe2c21c0fbf7b03448bb0d88a767",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/83a176b924ccbe2c21c0fbf7b03448bb0d88a767"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/python/config.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e7e09697334ccfa3a45a8897439544099982e4",
+      "size": 24,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/60e7e09697334ccfa3a45a8897439544099982e4"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/python/executor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33dd0be72a28e1a72aebef05b1d03d5f5a54f5f7",
+      "size": 2962,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/33dd0be72a28e1a72aebef05b1d03d5f5a54f5f7"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/python/functions.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b14ea1b9c464d836a02d11ee3cd3fa98d064bc34",
+      "size": 2704,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b14ea1b9c464d836a02d11ee3cd3fa98d064bc34"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/vue",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "92b660802b81f6ca531eb04bbc23bd160656c30c",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/92b660802b81f6ca531eb04bbc23bd160656c30c"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/vue/config.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e7e09697334ccfa3a45a8897439544099982e4",
+      "size": 24,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/60e7e09697334ccfa3a45a8897439544099982e4"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/plugins/vue/functions.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7046d2e466cc47a405333b3372f890dcf8a3dec5",
+      "size": 3289,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7046d2e466cc47a405333b3372f890dcf8a3dec5"
+    },
+    {
+      "path": "archive/openai-functions-codeinterpreter/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c03864d4db1ec0c48bf503f92ca1fdb84ab4c657",
+      "size": 68,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c03864d4db1ec0c48bf503f92ca1fdb84ab4c657"
+    },
+    {
+      "path": "archive/openai-functions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c1efd508f395cecebf8067e320d5c46d5894b446",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/c1efd508f395cecebf8067e320d5c46d5894b446"
+    },
+    {
+      "path": "archive/openai-functions/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51009be3eed683616281570d23af20a4b4ad2435",
+      "size": 35,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/51009be3eed683616281570d23af20a4b4ad2435"
+    },
+    {
+      "path": "archive/openai-functions/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f46bc21d029763804e508bd1a3442ad35262c591",
+      "size": 1496,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f46bc21d029763804e508bd1a3442ad35262c591"
+    },
+    {
+      "path": "archive/openai-functions/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52f75cf5ba05015a4bac67a495ece7b39b980281",
+      "size": 3371,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/52f75cf5ba05015a4bac67a495ece7b39b980281"
+    },
+    {
+      "path": "archive/openai-functions/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "archive/openai-functions/rendering.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c194ad9810112f1a0d86149cc95127d2e0af585a",
+      "size": 216066,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c194ad9810112f1a0d86149cc95127d2e0af585a"
+    },
+    {
+      "path": "auth",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6d5f376e4e03db13cd4cb72977b8efa1112a70a3",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/6d5f376e4e03db13cd4cb72977b8efa1112a70a3"
+    },
+    {
+      "path": "auth/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f67f972a86c9031e37c7372d38a24dd873138ffd",
+      "size": 5893,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f67f972a86c9031e37c7372d38a24dd873138ffd"
+    },
+    {
+      "path": "auth/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecb7845873fe75008de664ea74b691a72e81f2c5",
+      "size": 434,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ecb7845873fe75008de664ea74b691a72e81f2c5"
+    },
+    {
+      "path": "auth/azure_ad_b2c_oauth_provider.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd44a5701fdbd78d5163137c84852d01cd418aef",
+      "size": 3501,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/cd44a5701fdbd78d5163137c84852d01cd418aef"
+    },
+    {
+      "path": "auth/inject_custom_auth.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f77e7b9ee62b35cc082ebb075ff5c23c222ede0",
+      "size": 1587,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/5f77e7b9ee62b35cc082ebb075ff5c23c222ede0"
+    },
+    {
+      "path": "auth/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f87a9ee838d3c471c3851c378c5260b4aa672245",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/f87a9ee838d3c471c3851c378c5260b4aa672245"
+    },
+    {
+      "path": "auth/public/B2CLogo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41590b7e336ac92e3e421c541f3bfa7d14f3c3c1",
+      "size": 14092,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/41590b7e336ac92e3e421c541f3bfa7d14f3c3c1"
+    },
+    {
+      "path": "auth/public/script.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d858e4b01710c46735504be3031d8c071e61671",
+      "size": 945,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0d858e4b01710c46735504be3031d8c071e61671"
+    },
+    {
+      "path": "auth/public/stylesheet.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1cb8f006ab2b82c2ca632d05c4011b2eea33af8",
+      "size": 62,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b1cb8f006ab2b82c2ca632d05c4011b2eea33af8"
+    },
+    {
+      "path": "auth/validate_jwt.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fe10d3a9c33c1d7529557dad12b085bf6c1e108",
+      "size": 1710,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1fe10d3a9c33c1d7529557dad12b085bf6c1e108"
+    },
+    {
+      "path": "aws-ecs-deployment",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "449ca78f759403d438d24e62c536dad68a1b9600",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/449ca78f759403d438d24e62c536dad68a1b9600"
+    },
+    {
+      "path": "aws-ecs-deployment/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93295f518a4a4a5b0356d1cab1aeef33b3c2f324",
+      "size": 536,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/93295f518a4a4a5b0356d1cab1aeef33b3c2f324"
+    },
+    {
+      "path": "aws-ecs-deployment/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c1b29f712253a2d09dd33a02311d46f39f72526",
+      "size": 3192,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7c1b29f712253a2d09dd33a02311d46f39f72526"
+    },
+    {
+      "path": "aws-ecs-deployment/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc60ddb735829be1eb4e330c995a557ece09742c",
+      "size": 337,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/bc60ddb735829be1eb4e330c995a557ece09742c"
+    },
+    {
+      "path": "aws-ecs-deployment/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "aws-ecs-deployment/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "687eb9ce8150f92de1d1777daeaaa4aee2fbec8f",
+      "size": 8,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/687eb9ce8150f92de1d1777daeaaa4aee2fbec8f"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7d27994ae6de8adbb178518b696870e30e8b12b6",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7d27994ae6de8adbb178518b696870e30e8b12b6"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "15da497ff710cc0059c24095d6e80815351c45ee",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/15da497ff710cc0059c24095d6e80815351c45ee"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ad9c7514810df0c8646c1b3eb4483700f61d23e",
+      "size": 388,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8ad9c7514810df0c8646c1b3eb4483700f61d23e"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b9718b647df8664de17f6ae4f0ba2c1c0918e8b",
+      "size": 5356,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3b9718b647df8664de17f6ae4f0ba2c1c0918e8b"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/build-docker-image.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86a3c0c888f5df26e26548d7c79b1b4f7413ee79",
+      "size": 334,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/86a3c0c888f5df26e26548d7c79b1b4f7413ee79"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a7aab3672ec3339980a4e3d9d28f619b81dbb886",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/a7aab3672ec3339980a4e3d9d28f619b81dbb886"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/images/Screenshot 2024-02-18 at 16.58.21.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e91d3601a35e610c44573224b50f7d78b345efb",
+      "size": 367570,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8e91d3601a35e610c44573224b50f7d78b345efb"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/images/Screenshot 2024-02-18 at 17.13.36.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cb972c5c1bc2bcf47629d6904a374674052309a",
+      "size": 331934,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0cb972c5c1bc2bcf47629d6904a374674052309a"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/pdfs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "31abc6e04b7d414d41c7c869e41fa68634a597ae",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/31abc6e04b7d414d41c7c869e41fa68634a597ae"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/pdfs/sg248275.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d809e4a31a6b78d61ea2e68f2a06465b92fb8ed2",
+      "size": 7340876,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d809e4a31a6b78d61ea2e68f2a06465b92fb8ed2"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/push-docker-image.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e96f187b5f070ba4077fe833f9b77b7b1fcc89d7",
+      "size": 774,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e96f187b5f070ba4077fe833f9b77b7b1fcc89d7"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbc74d7a640a3a5ed8620276a9e0f09088593845",
+      "size": 6903,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/bbc74d7a640a3a5ed8620276a9e0f09088593845"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "308857443791d1d1a3f583da9468b896f2dd95f8",
+      "size": 94,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/308857443791d1d1a3f583da9468b896f2dd95f8"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/run-docker-container.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "717aa1d4facf1e8f2d43912ee0057dbad551c2bc",
+      "size": 328,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/717aa1d4facf1e8f2d43912ee0057dbad551c2bc"
+    },
+    {
+      "path": "azure-openai-pinecone-pdf-qa/src/variables.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46b797f27793e5dd3242ed46ebd5bad40bfe14c1",
+      "size": 237,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/46b797f27793e5dd3242ed46ebd5bad40bfe14c1"
+    },
+    {
+      "path": "baseten-llama-2-chat",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "63ec2e7415c5c6c08939c921237a5efeb6b8ffb7",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/63ec2e7415c5c6c08939c921237a5efeb6b8ffb7"
+    },
+    {
+      "path": "baseten-llama-2-chat/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19388dfa04d353912956b986005e0d80f52f2748",
+      "size": 36,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/19388dfa04d353912956b986005e0d80f52f2748"
+    },
+    {
+      "path": "baseten-llama-2-chat/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4ae830dd11f4bd41177fc71e3cc9c449cb7ff8a",
+      "size": 2198,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a4ae830dd11f4bd41177fc71e3cc9c449cb7ff8a"
+    },
+    {
+      "path": "baseten-llama-2-chat/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "766098d0171b086f1cf911752d5e3658ba1dcafc",
+      "size": 1278,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/766098d0171b086f1cf911752d5e3658ba1dcafc"
+    },
+    {
+      "path": "baseten-llama-2-chat/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8986911005befaee24b80a3e5210a6c77499be6d",
+      "size": 901,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8986911005befaee24b80a3e5210a6c77499be6d"
+    },
+    {
+      "path": "baseten-llama-2-chat/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18dfe2048bffbdd2433514a39eae3c2ff9bb17ea",
+      "size": 25,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/18dfe2048bffbdd2433514a39eae3c2ff9bb17ea"
+    },
+    {
+      "path": "bigquery",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ebfe266d8a0f808f535ef14082b77ab892ac0564",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/ebfe266d8a0f808f535ef14082b77ab892ac0564"
+    },
+    {
+      "path": "bigquery/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9442de1d6c6b932beba2941d43d3bf5dfc47bae3",
+      "size": 84,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9442de1d6c6b932beba2941d43d3bf5dfc47bae3"
+    },
+    {
+      "path": "bigquery/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "194aab6673965de15a3726b9d1767ea9aed9f8b4",
+      "size": 2798,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/194aab6673965de15a3726b9d1767ea9aed9f8b4"
+    },
+    {
+      "path": "bigquery/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4026ca458406bac693befd57c5f2218a860e193",
+      "size": 3426,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f4026ca458406bac693befd57c5f2218a860e193"
+    },
+    {
+      "path": "bigquery/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "chroma-qa-chat",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc39ca13a118ccd78d4dd7a6dff169ae3ddc1ddb",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/bc39ca13a118ccd78d4dd7a6dff169ae3ddc1ddb"
+    },
+    {
+      "path": "chroma-qa-chat/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9847a1df18c1ff8797ad55b83f8c3fc2afaedef8",
+      "size": 15,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9847a1df18c1ff8797ad55b83f8c3fc2afaedef8"
+    },
+    {
+      "path": "chroma-qa-chat/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef45f58edc0904623b7ddf978b7ae68ef84c579d",
+      "size": 312,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ef45f58edc0904623b7ddf978b7ae68ef84c579d"
+    },
+    {
+      "path": "chroma-qa-chat/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7614939063e771cec2a0466855fbc83c6cb72a3",
+      "size": 2432,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e7614939063e771cec2a0466855fbc83c6cb72a3"
+    },
+    {
+      "path": "chroma-qa-chat/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98e961509ccac31f438cc7309bb5a6ec05d0705a",
+      "size": 3782,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/98e961509ccac31f438cc7309bb5a6ec05d0705a"
+    },
+    {
+      "path": "chroma-qa-chat/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "chroma-qa-chat/pdfs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bbe2a0ea8f556a4e39bedc4c028a8de466f711f9",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/bbe2a0ea8f556a4e39bedc4c028a8de466f711f9"
+    },
+    {
+      "path": "chroma-qa-chat/pdfs/transformers.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cf8ea6dc51086113c0755ff40d7eef594b7bd95",
+      "size": 2215244,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/5cf8ea6dc51086113c0755ff40d7eef594b7bd95"
+    },
+    {
+      "path": "chroma-qa-chat/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "828560df55424b93d74d45c4dfbc6f4948f352a4",
+      "size": 89,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/828560df55424b93d74d45c4dfbc6f4948f352a4"
+    },
+    {
+      "path": "chroma-qa-chat/screenshot.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fde7468bac53ed7cacbbb215107b18bf5c3d7a4c",
+      "size": 276806,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fde7468bac53ed7cacbbb215107b18bf5c3d7a4c"
+    },
+    {
+      "path": "confirm-action",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d570a503c6f24f10d5c25d632cb7485b032b0765",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/d570a503c6f24f10d5c25d632cb7485b032b0765"
+    },
+    {
+      "path": "confirm-action/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21d4fc85e56a12c26e7078c151e62ed6eaf872e8",
+      "size": 683,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/21d4fc85e56a12c26e7078c151e62ed6eaf872e8"
+    },
+    {
+      "path": "confirm-action/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3de6625c31d5326fd4836d8f89f4ef3d87109aad",
+      "size": 523,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3de6625c31d5326fd4836d8f89f4ef3d87109aad"
+    },
+    {
+      "path": "confirm-action/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "confirm-action/rendering.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "844531bdb6fb69112d3d34723d52bf13ec890ee4",
+      "size": 100781,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/844531bdb6fb69112d3d34723d52bf13ec890ee4"
+    },
+    {
+      "path": "confirm-action/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "687eb9ce8150f92de1d1777daeaaa4aee2fbec8f",
+      "size": 8,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/687eb9ce8150f92de1d1777daeaaa4aee2fbec8f"
+    },
+    {
+      "path": "copilot",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ba01704a24fdc84d5109d0a22a72ba6cb3b969fc",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/ba01704a24fdc84d5109d0a22a72ba6cb3b969fc"
+    },
+    {
+      "path": "copilot/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cd975a74a927fdefed9c3139c85a69eb14d5337",
+      "size": 527,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8cd975a74a927fdefed9c3139c85a69eb14d5337"
+    },
+    {
+      "path": "copilot/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d91081dd2d0081a385e5a75eb58684dcb6c2473a",
+      "size": 138,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d91081dd2d0081a385e5a75eb58684dcb6c2473a"
+    },
+    {
+      "path": "copilot/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "copilot/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d363a9d1a222dfa55406e2ebf53d31de95a28727",
+      "size": 347,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d363a9d1a222dfa55406e2ebf53d31de95a28727"
+    },
+    {
+      "path": "custom-element",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "de55694c962a13141353c263a74908e26c766438",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/de55694c962a13141353c263a74908e26c766438"
+    },
+    {
+      "path": "custom-element/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "260e53ac9da6b64ff6d46f32a09b4a6365f6dd2b",
+      "size": 204,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/260e53ac9da6b64ff6d46f32a09b4a6365f6dd2b"
+    },
+    {
+      "path": "custom-element/Screenshot 2025-03-07 at 10.25.33.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2316734d77b49d5b2dcf66d964da3b5a46bcc5f",
+      "size": 85809,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b2316734d77b49d5b2dcf66d964da3b5a46bcc5f"
+    },
+    {
+      "path": "custom-element/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "723d135371c7ba5522bfb36a41f6ac5dd2f4f3c5",
+      "size": 586,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/723d135371c7ba5522bfb36a41f6ac5dd2f4f3c5"
+    },
+    {
+      "path": "custom-element/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2b05c2450e7206aba16df129811324af5944967e",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/2b05c2450e7206aba16df129811324af5944967e"
+    },
+    {
+      "path": "custom-element/public/elements",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9444be5e03b125e864ec670918ea200eca92a981",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/9444be5e03b125e864ec670918ea200eca92a981"
+    },
+    {
+      "path": "custom-element/public/elements/PdfSelector.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb298d112ddcdc6c1aa2095ecdbe447f52a83429",
+      "size": 1963,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/bb298d112ddcdc6c1aa2095ecdbe447f52a83429"
+    },
+    {
+      "path": "custom-element/public/files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "29aab2dd2a351039ed86cf059f2530ec60727157",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/29aab2dd2a351039ed86cf059f2530ec60727157"
+    },
+    {
+      "path": "custom-element/public/files/minimal-document.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af5e7324549276d1c28493c4d9f0429271e1da2b",
+      "size": 16978,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/af5e7324549276d1c28493c4d9f0429271e1da2b"
+    },
+    {
+      "path": "custom-element/public/files/pdflatex-image.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e185abd5c34c1f04328ea2ba2359279e48310245",
+      "size": 74061,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e185abd5c34c1f04328ea2ba2359279e48310245"
+    },
+    {
+      "path": "custom-element/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "687eb9ce8150f92de1d1777daeaaa4aee2fbec8f",
+      "size": 8,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/687eb9ce8150f92de1d1777daeaaa4aee2fbec8f"
+    },
+    {
+      "path": "custom-frontend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "19c614f39a3b091756abda44d739403b7099c58a",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/19c614f39a3b091756abda44d739403b7099c58a"
+    },
+    {
+      "path": "custom-frontend/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35fb6c5444f43575c83fe4add0844f8f8cb1cb17",
+      "size": 717,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/35fb6c5444f43575c83fe4add0844f8f8cb1cb17"
+    },
+    {
+      "path": "custom-frontend/backend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7b7b6cef7f5d987ce9387299d9720c97e0789671",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7b7b6cef7f5d987ce9387299d9720c97e0789671"
+    },
+    {
+      "path": "custom-frontend/backend/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21352b1f82b315539f1b8bb76f4b70c17dda870a",
+      "size": 82,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/21352b1f82b315539f1b8bb76f4b70c17dda870a"
+    },
+    {
+      "path": "custom-frontend/backend/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35b267c22131fcfb382ba231147d05f362d689aa",
+      "size": 670,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/35b267c22131fcfb382ba231147d05f362d689aa"
+    },
+    {
+      "path": "custom-frontend/backend/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "custom-frontend/backend/cl_app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5efa6c51f05116de350836de8a158d33410a664",
+      "size": 1122,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d5efa6c51f05116de350836de8a158d33410a664"
+    },
+    {
+      "path": "custom-frontend/frontend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "741b86fc5838514f7ebf101be728f5e0cb829301",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/741b86fc5838514f7ebf101be728f5e0cb829301"
+    },
+    {
+      "path": "custom-frontend/frontend/.eslintrc.cjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6c953795300e4256c76542d6bb0fe06f08b5ad6",
+      "size": 436,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d6c953795300e4256c76542d6bb0fe06f08b5ad6"
+    },
+    {
+      "path": "custom-frontend/frontend/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a547bf36d8d11a4f89c59c144f24795749086dd1",
+      "size": 253,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a547bf36d8d11a4f89c59c144f24795749086dd1"
+    },
+    {
+      "path": "custom-frontend/frontend/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ebe379f5f423c7dcc8775d39ffd571117fb89f8",
+      "size": 1263,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1ebe379f5f423c7dcc8775d39ffd571117fb89f8"
+    },
+    {
+      "path": "custom-frontend/frontend/components.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e24d4934d75fb32afcc2cb087f5d90bf62c84a1a",
+      "size": 322,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e24d4934d75fb32afcc2cb087f5d90bf62c84a1a"
+    },
+    {
+      "path": "custom-frontend/frontend/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca5b53d549072e4c721fc03ca06878017d3e4a85",
+      "size": 367,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ca5b53d549072e4c721fc03ca06878017d3e4a85"
+    },
+    {
+      "path": "custom-frontend/frontend/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4dafa5e812358b9c844490ce24c89145dc381f5b",
+      "size": 119783,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4dafa5e812358b9c844490ce24c89145dc381f5b"
+    },
+    {
+      "path": "custom-frontend/frontend/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "085c460b258de7360146862d52f6bafebe6d58dd",
+      "size": 1183,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/085c460b258de7360146862d52f6bafebe6d58dd"
+    },
+    {
+      "path": "custom-frontend/frontend/pnpm-lock.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cbe71d5c6e7877db8d11c54de9ecf8946ce1552",
+      "size": 76016,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3cbe71d5c6e7877db8d11c54de9ecf8946ce1552"
+    },
+    {
+      "path": "custom-frontend/frontend/postcss.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e7af2b7f1a6f391da1631d93968a9d487ba977d",
+      "size": 80,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2e7af2b7f1a6f391da1631d93968a9d487ba977d"
+    },
+    {
+      "path": "custom-frontend/frontend/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a740e784182fbbd2856f948810c2ae77a90d1753",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/a740e784182fbbd2856f948810c2ae77a90d1753"
+    },
+    {
+      "path": "custom-frontend/frontend/public/favicon.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4da75b87bd888c89cfa8fbe5d0e30cb4f4df5ebb",
+      "size": 6455,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4da75b87bd888c89cfa8fbe5d0e30cb4f4df5ebb"
+    },
+    {
+      "path": "custom-frontend/frontend/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "67f0a2eb7d9d9cea0e29cfbe7a640ea973b601ab",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/67f0a2eb7d9d9cea0e29cfbe7a640ea973b601ab"
+    },
+    {
+      "path": "custom-frontend/frontend/src/App.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1eff4a10f4f4f44bc3da37ccc95556c9eb0728f",
+      "size": 675,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a1eff4a10f4f4f44bc3da37ccc95556c9eb0728f"
+    },
+    {
+      "path": "custom-frontend/frontend/src/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c4e61800bf66f447e14d1ad285a55b54de81235c",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/c4e61800bf66f447e14d1ad285a55b54de81235c"
+    },
+    {
+      "path": "custom-frontend/frontend/src/components/playground.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "113f529d147a26dfbe47969e6f9dde595561028a",
+      "size": 2715,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/113f529d147a26dfbe47969e6f9dde595561028a"
+    },
+    {
+      "path": "custom-frontend/frontend/src/components/ui",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2a61d3e9d474bb5e76d7ec4484a56a071a86e318",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/2a61d3e9d474bb5e76d7ec4484a56a071a86e318"
+    },
+    {
+      "path": "custom-frontend/frontend/src/components/ui/button.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ba4277355fadde682ecc8399ee656838dc74049",
+      "size": 1835,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0ba4277355fadde682ecc8399ee656838dc74049"
+    },
+    {
+      "path": "custom-frontend/frontend/src/components/ui/input.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "677d05fd6c1c88366e8d0cdcdc9dcdea723a2ebb",
+      "size": 824,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/677d05fd6c1c88366e8d0cdcdc9dcdea723a2ebb"
+    },
+    {
+      "path": "custom-frontend/frontend/src/index.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a7572500d828bdd91f5038be403206726e93958",
+      "size": 1594,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/6a7572500d828bdd91f5038be403206726e93958"
+    },
+    {
+      "path": "custom-frontend/frontend/src/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c65244ec88ca225f9614c9b04399f6cca5d3f4ba",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/c65244ec88ca225f9614c9b04399f6cca5d3f4ba"
+    },
+    {
+      "path": "custom-frontend/frontend/src/lib/utils.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec79801fe9cdd7711f6dbef26678a134c634a8be",
+      "size": 167,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ec79801fe9cdd7711f6dbef26678a134c634a8be"
+    },
+    {
+      "path": "custom-frontend/frontend/src/main.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d01604ac1556954c4e53ac23cab019ab5b96bbac",
+      "size": 592,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d01604ac1556954c4e53ac23cab019ab5b96bbac"
+    },
+    {
+      "path": "custom-frontend/frontend/src/vite-env.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11f02fe2a0061d6e6e1f271b21da95423b448b32",
+      "size": 38,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/11f02fe2a0061d6e6e1f271b21da95423b448b32"
+    },
+    {
+      "path": "custom-frontend/frontend/tailwind.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab20902dbefeb1484c613ac7ac7bce6b51dd9887",
+      "size": 2124,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ab20902dbefeb1484c613ac7ac7bce6b51dd9887"
+    },
+    {
+      "path": "custom-frontend/frontend/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d28e1d9a12b39588bba5e58d6174172dc400ffd",
+      "size": 673,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0d28e1d9a12b39588bba5e58d6174172dc400ffd"
+    },
+    {
+      "path": "custom-frontend/frontend/tsconfig.node.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42872c59f5b01c9155864572bc2fbd5833a7406c",
+      "size": 213,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/42872c59f5b01c9155864572bc2fbd5833a7406c"
+    },
+    {
+      "path": "custom-frontend/frontend/vite.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "112c417a9f6f2d18471a0b872a3d9a8ebe7609e8",
+      "size": 248,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/112c417a9f6f2d18471a0b872a3d9a8ebe7609e8"
+    },
+    {
+      "path": "custom-logo",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ef7ae9a68ee605751dc29ccded74f6ceb662fb59",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/ef7ae9a68ee605751dc29ccded74f6ceb662fb59"
+    },
+    {
+      "path": "custom-logo/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d15f25ec002dd55f40c1055ac1c6a608fef5218",
+      "size": 209,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1d15f25ec002dd55f40c1055ac1c6a608fef5218"
+    },
+    {
+      "path": "custom-logo/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "custom-logo/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fde6f91b54c5073e4fd8ca79519cf1cf621fd241",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/fde6f91b54c5073e4fd8ca79519cf1cf621fd241"
+    },
+    {
+      "path": "custom-logo/public/favicon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0131c8dae98095c2b64c14c9c20e8291d1ec152a",
+      "size": 7343,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0131c8dae98095c2b64c14c9c20e8291d1ec152a"
+    },
+    {
+      "path": "custom-logo/public/logo_dark.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0131c8dae98095c2b64c14c9c20e8291d1ec152a",
+      "size": 7343,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0131c8dae98095c2b64c14c9c20e8291d1ec152a"
+    },
+    {
+      "path": "custom-logo/public/logo_light.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0131c8dae98095c2b64c14c9c20e8291d1ec152a",
+      "size": 7343,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0131c8dae98095c2b64c14c9c20e8291d1ec152a"
+    },
+    {
+      "path": "deepseek-r1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "68d12e2e7a6020efc30518c63e6bd690ad94a44e",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/68d12e2e7a6020efc30518c63e6bd690ad94a44e"
+    },
+    {
+      "path": "deepseek-r1/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "731c1135fd8e4d708a7f10080cb28d2097d8b552",
+      "size": 483,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/731c1135fd8e4d708a7f10080cb28d2097d8b552"
+    },
+    {
+      "path": "deepseek-r1/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "deepseek-r1/deepseek_api.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10d13c10fcd429a338649050ae288ba213dad752",
+      "size": 1566,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/10d13c10fcd429a338649050ae288ba213dad752"
+    },
+    {
+      "path": "deepseek-r1/ollama.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd49561d31c47b63278e2233db1517bd819de284",
+      "size": 1292,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/dd49561d31c47b63278e2233db1517bd819de284"
+    },
+    {
+      "path": "deepseek-r1/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa7104bfd344d33e2e147fb7e3d3cd115cde5fdc",
+      "size": 15,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/aa7104bfd344d33e2e147fb7e3d3cd115cde5fdc"
+    },
+    {
+      "path": "extended-thinking-in-the-ui",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ddbfdcdb11b58b470daf897aea26c355eea74713",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/ddbfdcdb11b58b470daf897aea26c355eea74713"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80a79e625b3f1ce70b9c5134a7537822c6d22463",
+      "size": 18,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/80a79e625b3f1ce70b9c5134a7537822c6d22463"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "689e9cae668d3a3ffbdd19c9441cec6153a1ab47",
+      "size": 2455,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/689e9cae668d3a3ffbdd19c9441cec6153a1ab47"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92266e91c79722fb9ef14988b3c458c756224d62",
+      "size": 2310,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/92266e91c79722fb9ef14988b3c458c756224d62"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "689e9cae668d3a3ffbdd19c9441cec6153a1ab47",
+      "size": 2455,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/689e9cae668d3a3ffbdd19c9441cec6153a1ab47"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/config.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "558c941d551d4f80b38a583b94840d59eb290518",
+      "size": 3073,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/558c941d551d4f80b38a583b94840d59eb290518"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/extended_thinking_example.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59af5421a7695f895826ba03e2a382c35c698180",
+      "size": 21742729,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/59af5421a7695f895826ba03e2a382c35c698180"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f4b3b58082ad0f3c9c7a2ac1a222efd9f605c907",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/f4b3b58082ad0f3c9c7a2ac1a222efd9f605c907"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/public/script.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcf39433998e73fe952f786fb4983268e2432126",
+      "size": 1363,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fcf39433998e73fe952f786fb4983268e2432126"
+    },
+    {
+      "path": "extended-thinking-in-the-ui/public/styles.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3945f3c29b6b084f9321fdecc2df964c817973f",
+      "size": 341,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c3945f3c29b6b084f9321fdecc2df964c817973f"
+    },
+    {
+      "path": "fly-io-deployment",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b09ad52c92a69a6ae66729e13bf4c3bbf945823",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/0b09ad52c92a69a6ae66729e13bf4c3bbf945823"
+    },
+    {
+      "path": "fly-io-deployment/Procfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d725b1a6e23d95db106bca6a11b0906136575eb3",
+      "size": 49,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d725b1a6e23d95db106bca6a11b0906136575eb3"
+    },
+    {
+      "path": "fly-io-deployment/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fbed45a53aaae3ac09b5767e037c1b4f2677a12",
+      "size": 2050,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2fbed45a53aaae3ac09b5767e037c1b4f2677a12"
+    },
+    {
+      "path": "fly-io-deployment/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72e4be1b1a8c8f47b374843da0ae193063e8055f",
+      "size": 339,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/72e4be1b1a8c8f47b374843da0ae193063e8055f"
+    },
+    {
+      "path": "fly-io-deployment/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "fly-io-deployment/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "687eb9ce8150f92de1d1777daeaaa4aee2fbec8f",
+      "size": 8,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/687eb9ce8150f92de1d1777daeaaa4aee2fbec8f"
+    },
+    {
+      "path": "humanlayer-openai",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "31f2d21d8bbf78b23290bf7b504d963ac8f9828d",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/31f2d21d8bbf78b23290bf7b504d963ac8f9828d"
+    },
+    {
+      "path": "humanlayer-openai/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c004f45d6086b37954af2e61c026756798b355f9",
+      "size": 36,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c004f45d6086b37954af2e61c026756798b355f9"
+    },
+    {
+      "path": "humanlayer-openai/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c3dc537905d7442d8830176b289013b9cdc23df",
+      "size": 167,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7c3dc537905d7442d8830176b289013b9cdc23df"
+    },
+    {
+      "path": "humanlayer-openai/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "475bdb8d907b6d450702440c46f8b6a1919dfb4a",
+      "size": 5282,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/475bdb8d907b6d450702440c46f8b6a1919dfb4a"
+    },
+    {
+      "path": "humanlayer-openai/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de84a4f64b7e8487d5e6eb99dfe07590b208e5ed",
+      "size": 133,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/de84a4f64b7e8487d5e6eb99dfe07590b208e5ed"
+    },
+    {
+      "path": "langchain-azure-agent",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "264e846475b0305f6fd82111215d8cfb6d5c0fd3",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/264e846475b0305f6fd82111215d8cfb6d5c0fd3"
+    },
+    {
+      "path": "langchain-azure-agent/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4eab16d582a00696d003e1c23a95d194fddad6a7",
+      "size": 518,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4eab16d582a00696d003e1c23a95d194fddad6a7"
+    },
+    {
+      "path": "langchain-azure-agent/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8be90f5bf08a3a1cae2e1e8443a6a9778618dee",
+      "size": 2433,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e8be90f5bf08a3a1cae2e1e8443a6a9778618dee"
+    },
+    {
+      "path": "langchain-azure-agent/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "993160c5f32c0f044138e565b56c6a1d14a93547",
+      "size": 9377,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/993160c5f32c0f044138e565b56c6a1d14a93547"
+    },
+    {
+      "path": "langchain-azure-agent/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "langchain-azure-agent/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf641e8828e853843c6519a89b7df52e149312a0",
+      "size": 496,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/bf641e8828e853843c6519a89b7df52e149312a0"
+    },
+    {
+      "path": "langchain-azure-agent/services",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "39f3c19c52e1c47cbe075cfc7129f4bc5b790a01",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/39f3c19c52e1c47cbe075cfc7129f4bc5b790a01"
+    },
+    {
+      "path": "langchain-azure-agent/services/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "langchain-azure-agent/services/azure_services.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1cf7135653cec508c00c21d6075c9560230cb19",
+      "size": 4886,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e1cf7135653cec508c00c21d6075c9560230cb19"
+    },
+    {
+      "path": "langchain-azure-agent/services/document_loader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61121fde5918f8ebf02faf31e73c0a15efa3bd46",
+      "size": 3295,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/61121fde5918f8ebf02faf31e73c0a15efa3bd46"
+    },
+    {
+      "path": "langchain-azure-agent/tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7bda7635c909a7fe124b8b40178307b80316e9a8",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7bda7635c909a7fe124b8b40178307b80316e9a8"
+    },
+    {
+      "path": "langchain-azure-agent/tools/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "langchain-azure-agent/tools/file_search.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65701f78945615f992fd7b25feea365920d626d3",
+      "size": 2040,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/65701f78945615f992fd7b25feea365920d626d3"
+    },
+    {
+      "path": "langchain-azure-agent/tools/rag_search.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd46e9448de6bcf0d10e0355e6522b69ffd8348d",
+      "size": 1857,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fd46e9448de6bcf0d10e0355e6522b69ffd8348d"
+    },
+    {
+      "path": "langgraph-memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ce6c0c17acc7462be075931ea34b0927c9d70b68",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/ce6c0c17acc7462be075931ea34b0927c9d70b68"
+    },
+    {
+      "path": "langgraph-memory/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fbf1fae0dd172de6385580a0ef970c737745d7b",
+      "size": 116,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2fbf1fae0dd172de6385580a0ef970c737745d7b"
+    },
+    {
+      "path": "langgraph-memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1c9fc2c2b450e275f0366b86412d62be398f267",
+      "size": 917,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f1c9fc2c2b450e275f0366b86412d62be398f267"
+    },
+    {
+      "path": "langgraph-memory/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c35fac86502c3bd1ad9ffc3c2a98dd1609c78dc3",
+      "size": 1701,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c35fac86502c3bd1ad9ffc3c2a98dd1609c78dc3"
+    },
+    {
+      "path": "langgraph-memory/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1564e1de06644e5937bbae0c164737d6e119df4e",
+      "size": 45,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1564e1de06644e5937bbae0c164737d6e119df4e"
+    },
+    {
+      "path": "langgraph-tavily",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4e37d3f15705131516693948718b0acc77c70f6c",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/4e37d3f15705131516693948718b0acc77c70f6c"
+    },
+    {
+      "path": "langgraph-tavily/.env.sample",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "384f48e8f973953dd517c395adcdc42068bdd239",
+      "size": 50,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/384f48e8f973953dd517c395adcdc42068bdd239"
+    },
+    {
+      "path": "langgraph-tavily/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e8cbf54fdd59c2c91cb09b8a1b882d17f4a7049",
+      "size": 1532,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2e8cbf54fdd59c2c91cb09b8a1b882d17f4a7049"
+    },
+    {
+      "path": "langgraph-tavily/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acf420d481296ea9b62c5125619a6a1fa8258e84",
+      "size": 4812,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/acf420d481296ea9b62c5125619a6a1fa8258e84"
+    },
+    {
+      "path": "langgraph-tavily/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afd80aea490b9a535cdbbce51836778de8fc2130",
+      "size": 84,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/afd80aea490b9a535cdbbce51836778de8fc2130"
+    },
+    {
+      "path": "llama-index-googledocs-qa",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e829831744ae12f02c0c0027cd659e06cd6f342",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/5e829831744ae12f02c0c0027cd659e06cd6f342"
+    },
+    {
+      "path": "llama-index-googledocs-qa/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef176ec47cd09a02767447d68c699ae5f2c7f107",
+      "size": 34,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ef176ec47cd09a02767447d68c699ae5f2c7f107"
+    },
+    {
+      "path": "llama-index-googledocs-qa/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95cb14d8fc233a3e55d032f0286af60af91cde93",
+      "size": 3198,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/95cb14d8fc233a3e55d032f0286af60af91cde93"
+    },
+    {
+      "path": "llama-index-googledocs-qa/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "llama-index-googledocs-qa/credentials.example.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18a570db7fe7c014f7f00940ecf366a0098ccc8d",
+      "size": 412,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/18a570db7fe7c014f7f00940ecf366a0098ccc8d"
+    },
+    {
+      "path": "llama-index-googledocs-qa/readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7523cea937d21aacc261d452594cd7f313f2849d",
+      "size": 1674,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7523cea937d21aacc261d452594cd7f313f2849d"
+    },
+    {
+      "path": "llama-index-googledocs-qa/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b983616c210d51f5eafaf49e6125b09c43707b4d",
+      "size": 37,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b983616c210d51f5eafaf49e6125b09c43707b4d"
+    },
+    {
+      "path": "llama-index",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1d247164144105f9c592cfe5099bc1f91d17f9a4",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/1d247164144105f9c592cfe5099bc1f91d17f9a4"
+    },
+    {
+      "path": "llama-index/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef176ec47cd09a02767447d68c699ae5f2c7f107",
+      "size": 34,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ef176ec47cd09a02767447d68c699ae5f2c7f107"
+    },
+    {
+      "path": "llama-index/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9a6efda449de575ae796f480affbfabe1e13b1a",
+      "size": 1957,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b9a6efda449de575ae796f480affbfabe1e13b1a"
+    },
+    {
+      "path": "llama-index/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "llama-index/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "518946dd8c53113ab0f896d8c7b71f65105752f5",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/518946dd8c53113ab0f896d8c7b71f65105752f5"
+    },
+    {
+      "path": "llama-index/data/state_of_the_union.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d50175de40e706f22f0243bb165a7770464a91c3",
+      "size": 39027,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d50175de40e706f22f0243bb165a7770464a91c3"
+    },
+    {
+      "path": "llama-index/readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8da37648a420980aa6b9424c0e0723b4dc38158e",
+      "size": 1966,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8da37648a420980aa6b9424c0e0723b4dc38158e"
+    },
+    {
+      "path": "llama-index/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "379114eb209280aa23c39096dd5ad9a40f7a5b6e",
+      "size": 20,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/379114eb209280aa23c39096dd5ad9a40f7a5b6e"
+    },
+    {
+      "path": "llava",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1cd205ff0878a52970131f52a4afef9ab5e5b00f",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/1cd205ff0878a52970131f52a4afef9ab5e5b00f"
+    },
+    {
+      "path": "llava/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d10948ed72426adda87974d93218399f824a21f",
+      "size": 21,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/5d10948ed72426adda87974d93218399f824a21f"
+    },
+    {
+      "path": "llava/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9e4c5b7949908db7a04dba27a709e72c22bb4e1",
+      "size": 4028,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d9e4c5b7949908db7a04dba27a709e72c22bb4e1"
+    },
+    {
+      "path": "llava/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48c16d050320555db50a0f562a0d126526c4f523",
+      "size": 11699,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/48c16d050320555db50a0f562a0d126526c4f523"
+    },
+    {
+      "path": "llava/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "loader-animation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e28f4516677ed3e4e458161004d9a52597b2e667",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/e28f4516677ed3e4e458161004d9a52597b2e667"
+    },
+    {
+      "path": "loader-animation/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbba0131e6982b2e5444ac00932a1545975ddc5e",
+      "size": 732,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/dbba0131e6982b2e5444ac00932a1545975ddc5e"
+    },
+    {
+      "path": "loader-animation/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "002d56fe5c54308060e97a9c95e9aa7ff50c46da",
+      "size": 1713,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/002d56fe5c54308060e97a9c95e9aa7ff50c46da"
+    },
+    {
+      "path": "loader-animation/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "loader-animation/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfe9786fc4fe042a01941c9e1991ebc022a26e8b",
+      "size": 71,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/dfe9786fc4fe042a01941c9e1991ebc022a26e8b"
+    },
+    {
+      "path": "local-llm",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b7b4ecece57b6efcaae781ad496ac0bf2e1ec0d7",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/b7b4ecece57b6efcaae781ad496ac0bf2e1ec0d7"
+    },
+    {
+      "path": "local-llm/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74199814d96ec4ce8202c7bf0469fa23421c519b",
+      "size": 26,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/74199814d96ec4ce8202c7bf0469fa23421c519b"
+    },
+    {
+      "path": "local-llm/llama-cpp.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48810698f184f5354aa70052227cf6057b08d46b",
+      "size": 1956,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/48810698f184f5354aa70052227cf6057b08d46b"
+    },
+    {
+      "path": "local-llm/llama2-chat.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75e1b6d9cfdb62f6fb499cb8da973b82d69f80c7",
+      "size": 1899,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/75e1b6d9cfdb62f6fb499cb8da973b82d69f80c7"
+    },
+    {
+      "path": "local-llm/ollama.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8757fdc0ad214734d8795fdf0a3ecb9142135a42",
+      "size": 1132,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8757fdc0ad214734d8795fdf0a3ecb9142135a42"
+    },
+    {
+      "path": "local-llm/readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0486670e3b40e19abf7856fa49cb3a288e4e827",
+      "size": 2207,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b0486670e3b40e19abf7856fa49cb3a288e4e827"
+    },
+    {
+      "path": "map-canvas",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ec0dd02f0caf643a3c5adceb4ede5e7fc32bd01",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/8ec0dd02f0caf643a3c5adceb4ede5e7fc32bd01"
+    },
+    {
+      "path": "map-canvas/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58983a6fb0297c2b90809dfd032139b73729aed8",
+      "size": 213,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/58983a6fb0297c2b90809dfd032139b73729aed8"
+    },
+    {
+      "path": "map-canvas/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06f09baf26cc4f9f04743f4f0814046634666b3b",
+      "size": 4028,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/06f09baf26cc4f9f04743f4f0814046634666b3b"
+    },
+    {
+      "path": "map-canvas/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "map-canvas/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2eafb04da80b2912f0848bbb669df4ff27fd7135",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/2eafb04da80b2912f0848bbb669df4ff27fd7135"
+    },
+    {
+      "path": "map-canvas/public/elements",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "44d940c5e3b36064caecf50cdb20f6c15bbbbf74",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/44d940c5e3b36064caecf50cdb20f6c15bbbbf74"
+    },
+    {
+      "path": "map-canvas/public/elements/Map.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bae8a0d1232ddba8c4298869cc5166b57dc1b442",
+      "size": 2913,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/bae8a0d1232ddba8c4298869cc5166b57dc1b442"
+    },
+    {
+      "path": "map-canvas/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3fab4d158e2d8fe92983bdc6cec4a006ee417ab",
+      "size": 17,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a3fab4d158e2d8fe92983bdc6cec4a006ee417ab"
+    },
+    {
+      "path": "mcp-linear",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af47201a9674355480690b6b4c6ab617e759c668",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/af47201a9674355480690b6b4c6ab617e759c668"
+    },
+    {
+      "path": "mcp-linear/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b3e12580738e80ab7a020f758ae22a848a8febb",
+      "size": 19,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8b3e12580738e80ab7a020f758ae22a848a8febb"
+    },
+    {
+      "path": "mcp-linear/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ddfada71aa844595d2fe6b7b1f43df3cac1cf27",
+      "size": 918,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3ddfada71aa844595d2fe6b7b1f43df3cac1cf27"
+    },
+    {
+      "path": "mcp-linear/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18718aa0f489433001ad06054d7dd8a4e9294c28",
+      "size": 5876,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/18718aa0f489433001ad06054d7dd8a4e9294c28"
+    },
+    {
+      "path": "mcp-linear/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "mcp-linear/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "223c4b395dcf53fcb59ba303dc484f36bcee28a2",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/223c4b395dcf53fcb59ba303dc484f36bcee28a2"
+    },
+    {
+      "path": "mcp-linear/public/avatars",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bfe11024e01da84484d1b3af282928321680a34",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/5bfe11024e01da84484d1b3af282928321680a34"
+    },
+    {
+      "path": "mcp-linear/public/avatars/get_issue.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df799e3f949ccfd8b1cde90bab5b0de97493ef1",
+      "size": 1059,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2df799e3f949ccfd8b1cde90bab5b0de97493ef1"
+    },
+    {
+      "path": "mcp-linear/public/avatars/list_issues.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df799e3f949ccfd8b1cde90bab5b0de97493ef1",
+      "size": 1059,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2df799e3f949ccfd8b1cde90bab5b0de97493ef1"
+    },
+    {
+      "path": "mcp-linear/public/avatars/show_linear_ticket.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df799e3f949ccfd8b1cde90bab5b0de97493ef1",
+      "size": 1059,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2df799e3f949ccfd8b1cde90bab5b0de97493ef1"
+    },
+    {
+      "path": "mcp-linear/public/elements",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6248613335bf9e0685e0cfa605462bf96b9f97b",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/c6248613335bf9e0685e0cfa605462bf96b9f97b"
+    },
+    {
+      "path": "mcp-linear/public/elements/LinearTicket.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "873368e3e54d43fdb67208dd1c35dafc1a5db7c6",
+      "size": 1742,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/873368e3e54d43fdb67208dd1c35dafc1a5db7c6"
+    },
+    {
+      "path": "mcp-linear/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56a0dbf2138e39a90c4fc8b85f281c6a4792f771",
+      "size": 25,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/56a0dbf2138e39a90c4fc8b85f281c6a4792f771"
+    },
+    {
+      "path": "mcp-linear/tools_data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2317a90d1c2ec4e8e0b1a7a58ea235504388558e",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/2317a90d1c2ec4e8e0b1a7a58ea235504388558e"
+    },
+    {
+      "path": "mcp-linear/tools_data/Linear_tools.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4295e467ed1094df0955490d71409c8ef2761d88",
+      "size": 3932,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4295e467ed1094df0955490d71409c8ef2761d88"
+    },
+    {
+      "path": "mcp",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a0618db41ecbf2c54c3ad739f9610762c749ac05",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/a0618db41ecbf2c54c3ad739f9610762c749ac05"
+    },
+    {
+      "path": "mcp/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b3e12580738e80ab7a020f758ae22a848a8febb",
+      "size": 19,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8b3e12580738e80ab7a020f758ae22a848a8febb"
+    },
+    {
+      "path": "mcp/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f5fd0d473fd02e7185bbce359133a52df248389",
+      "size": 893,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4f5fd0d473fd02e7185bbce359133a52df248389"
+    },
+    {
+      "path": "mcp/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d9cf533dd59ddd9caaa360f84f6007a013e4cac",
+      "size": 5437,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3d9cf533dd59ddd9caaa360f84f6007a013e4cac"
+    },
+    {
+      "path": "mcp/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "mcp/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "223c4b395dcf53fcb59ba303dc484f36bcee28a2",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/223c4b395dcf53fcb59ba303dc484f36bcee28a2"
+    },
+    {
+      "path": "mcp/public/avatars",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bfe11024e01da84484d1b3af282928321680a34",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/5bfe11024e01da84484d1b3af282928321680a34"
+    },
+    {
+      "path": "mcp/public/avatars/get_issue.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df799e3f949ccfd8b1cde90bab5b0de97493ef1",
+      "size": 1059,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2df799e3f949ccfd8b1cde90bab5b0de97493ef1"
+    },
+    {
+      "path": "mcp/public/avatars/list_issues.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df799e3f949ccfd8b1cde90bab5b0de97493ef1",
+      "size": 1059,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2df799e3f949ccfd8b1cde90bab5b0de97493ef1"
+    },
+    {
+      "path": "mcp/public/avatars/show_linear_ticket.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df799e3f949ccfd8b1cde90bab5b0de97493ef1",
+      "size": 1059,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2df799e3f949ccfd8b1cde90bab5b0de97493ef1"
+    },
+    {
+      "path": "mcp/public/elements",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6248613335bf9e0685e0cfa605462bf96b9f97b",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/c6248613335bf9e0685e0cfa605462bf96b9f97b"
+    },
+    {
+      "path": "mcp/public/elements/LinearTicket.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "873368e3e54d43fdb67208dd1c35dafc1a5db7c6",
+      "size": 1742,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/873368e3e54d43fdb67208dd1c35dafc1a5db7c6"
+    },
+    {
+      "path": "mcp/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56a0dbf2138e39a90c4fc8b85f281c6a4792f771",
+      "size": 25,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/56a0dbf2138e39a90c4fc8b85f281c6a4792f771"
+    },
+    {
+      "path": "openai-concurrent-functions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cd2634f5da9de1862f100e387c2ab213cefe0de1",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/cd2634f5da9de1862f100e387c2ab213cefe0de1"
+    },
+    {
+      "path": "openai-concurrent-functions/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9847a1df18c1ff8797ad55b83f8c3fc2afaedef8",
+      "size": 15,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9847a1df18c1ff8797ad55b83f8c3fc2afaedef8"
+    },
+    {
+      "path": "openai-concurrent-functions/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cb227f206ae8047036a6f109bb6a2d1bf9e29f2",
+      "size": 4371,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0cb227f206ae8047036a6f109bb6a2d1bf9e29f2"
+    },
+    {
+      "path": "openai-concurrent-functions/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "openai-concurrent-functions/readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a59955fde803eb1dd9c978cdf73a4e4ebbbce566",
+      "size": 1737,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a59955fde803eb1dd9c978cdf73a4e4ebbbce566"
+    },
+    {
+      "path": "openai-concurrent-streaming",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf0e93955a047feb0ecafc746d61b70a92a7d56c",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/bf0e93955a047feb0ecafc746d61b70a92a7d56c"
+    },
+    {
+      "path": "openai-concurrent-streaming/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51009be3eed683616281570d23af20a4b4ad2435",
+      "size": 35,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/51009be3eed683616281570d23af20a4b4ad2435"
+    },
+    {
+      "path": "openai-concurrent-streaming/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c114322b02fe54bc78c7725754e7e52db080be5c",
+      "size": 1073,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c114322b02fe54bc78c7725754e7e52db080be5c"
+    },
+    {
+      "path": "openai-concurrent-streaming/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13fa97c958015f6c4dab258b4ee1e8048cb6d00c",
+      "size": 1689,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/13fa97c958015f6c4dab258b4ee1e8048cb6d00c"
+    },
+    {
+      "path": "openai-concurrent-streaming/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f3c785981c90602de6a414627e40272e2e9383c",
+      "size": 500,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f3c785981c90602de6a414627e40272e2e9383c"
+    },
+    {
+      "path": "openai-concurrent-streaming/concurrent.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72cd8a639093cd80b2e27ad7ac7f3e8cc2e417fa",
+      "size": 848056,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/72cd8a639093cd80b2e27ad7ac7f3e8cc2e417fa"
+    },
+    {
+      "path": "openai-concurrent-streaming/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c334cf473740f6e7b80922e13b3bdfab5d535e50",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/c334cf473740f6e7b80922e13b3bdfab5d535e50"
+    },
+    {
+      "path": "openai-concurrent-streaming/public/avatars",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "782d84c56cb3ec92a9a236c4c57a4d911646f347",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/782d84c56cb3ec92a9a236c4c57a4d911646f347"
+    },
+    {
+      "path": "openai-concurrent-streaming/public/avatars/dinesh.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "345383e633781960ad700619771f0a65b5ddaaad",
+      "size": 49190,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/345383e633781960ad700619771f0a65b5ddaaad"
+    },
+    {
+      "path": "openai-concurrent-streaming/public/avatars/gilfoyle.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b798332615be64e517ca207bfc0fe37a433149d9",
+      "size": 84238,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b798332615be64e517ca207bfc0fe37a433149d9"
+    },
+    {
+      "path": "openai-data-analyst",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "39e3b9b826f0373ce27b1a52dcfc6818f8e756b5",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/39e3b9b826f0373ce27b1a52dcfc6818f8e756b5"
+    },
+    {
+      "path": "openai-data-analyst/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb3cbb039df69282f4ae8a719c18844c10b4aebb",
+      "size": 37,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fb3cbb039df69282f4ae8a719c18844c10b4aebb"
+    },
+    {
+      "path": "openai-data-analyst/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcdc743fed5459b3fd52bee5b330d6168f85da91",
+      "size": 37,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/bcdc743fed5459b3fd52bee5b330d6168f85da91"
+    },
+    {
+      "path": "openai-data-analyst/LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f29fd7fa1e3459f2899764009460c8577b6a2387",
+      "size": 1065,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f29fd7fa1e3459f2899764009460c8577b6a2387"
+    },
+    {
+      "path": "openai-data-analyst/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ede58c0853f54915cd66b67eff6c194ac214b715",
+      "size": 894,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ede58c0853f54915cd66b67eff6c194ac214b715"
+    },
+    {
+      "path": "openai-data-analyst/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb7f9063d94cef8ec74345f60b2e758461e19f6b",
+      "size": 8496,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/cb7f9063d94cef8ec74345f60b2e758461e19f6b"
+    },
+    {
+      "path": "openai-data-analyst/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "openai-data-analyst/create_assistant.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1012ca3a7be80f40f3aa2b1363c428571729adf6",
+      "size": 938,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1012ca3a7be80f40f3aa2b1363c428571729adf6"
+    },
+    {
+      "path": "openai-data-analyst/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa9b344d103cea0306c6dbc634adb93202eeb2ce",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/aa9b344d103cea0306c6dbc634adb93202eeb2ce"
+    },
+    {
+      "path": "openai-data-analyst/public/idea.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c2a07bbd3c664b22a051ab7eadd4fab8fffb504",
+      "size": 413,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1c2a07bbd3c664b22a051ab7eadd4fab8fffb504"
+    },
+    {
+      "path": "openai-data-analyst/public/learn.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f912a8331e582c417d8235460dd514a32c63d904",
+      "size": 714,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f912a8331e582c417d8235460dd514a32c63d904"
+    },
+    {
+      "path": "openai-data-analyst/public/terminal.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "326b26b4be75f655c6601dc5757608dbb4be0a08",
+      "size": 538,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/326b26b4be75f655c6601dc5757608dbb4be0a08"
+    },
+    {
+      "path": "openai-data-analyst/public/write.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab1182ced061c3dc11be9737777642f7827e41c5",
+      "size": 466,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ab1182ced061c3dc11be9737777642f7827e41c5"
+    },
+    {
+      "path": "openai-data-analyst/render.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa9f8a6fc7678ab3b0538903d5e3d58989376ee2",
+      "size": 449,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fa9f8a6fc7678ab3b0538903d5e3d58989376ee2"
+    },
+    {
+      "path": "openai-data-analyst/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7202c8544f6c92ed198cf2e532886b4362b4feea",
+      "size": 22,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7202c8544f6c92ed198cf2e532886b4362b4feea"
+    },
+    {
+      "path": "openai-data-analyst/tesla-stock-price.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c9b71f3955cb48bec2b99bb2fcebfecf8f72ff8",
+      "size": 19119,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/5c9b71f3955cb48bec2b99bb2fcebfecf8f72ff8"
+    },
+    {
+      "path": "openai-functions-streaming",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a732c058670f6bd663f40619b62db6783e6f1b8e",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/a732c058670f6bd663f40619b62db6783e6f1b8e"
+    },
+    {
+      "path": "openai-functions-streaming/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51009be3eed683616281570d23af20a4b4ad2435",
+      "size": 35,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/51009be3eed683616281570d23af20a4b4ad2435"
+    },
+    {
+      "path": "openai-functions-streaming/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d3a36841c0ba4b470e56c2b8b42f413f7d411b6",
+      "size": 2230,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3d3a36841c0ba4b470e56c2b8b42f413f7d411b6"
+    },
+    {
+      "path": "openai-functions-streaming/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88ca65c9993ccf4649fbc851cd99960d8fe2d745",
+      "size": 3646,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/88ca65c9993ccf4649fbc851cd99960d8fe2d745"
+    },
+    {
+      "path": "openai-functions-streaming/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0f673dc0aed7dae5cfbc91a29940b6dbe270ac9d"
+    },
+    {
+      "path": "openai-functions-streaming/streaming-functions.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eada234dcf35a51c76ff9850c2cdf4f2e3f84870",
+      "size": 2650496,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/eada234dcf35a51c76ff9850c2cdf4f2e3f84870"
+    },
+    {
+      "path": "openai-responses-gpt5-functions-streaming-multi-modal-reasoning-super-advanced",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b197e762e0ff047ef227b8484286971c00376106",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/b197e762e0ff047ef227b8484286971c00376106"
+    },
+    {
+      "path": "openai-responses-gpt5-functions-streaming-multi-modal-reasoning-super-advanced/ReadME.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f2e17a27fefe236a2c19ff337fc73f89f9c9caa",
+      "size": 4871,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4f2e17a27fefe236a2c19ff337fc73f89f9c9caa"
+    },
+    {
+      "path": "openai-responses-gpt5-functions-streaming-multi-modal-reasoning-super-advanced/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c64b34d5598947beceee33b899906c8f52d75465",
+      "size": 22447,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c64b34d5598947beceee33b899906c8f52d75465"
+    },
+    {
+      "path": "openai-responses-gpt5-functions-streaming-multi-modal-reasoning-super-advanced/tools.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3181e2cf784e0ac590ebca8ab952f9d9594c0705",
+      "size": 26569,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3181e2cf784e0ac590ebca8ab952f9d9594c0705"
+    },
+    {
+      "path": "openai-responses-gpt5-functions-streaming",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "baf7efcda30f0c35346b9f489def36f7bd87894a",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/baf7efcda30f0c35346b9f489def36f7bd87894a"
+    },
+    {
+      "path": "openai-responses-gpt5-functions-streaming/ReadME.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a18a583ce5f8fb172f46eccce171a578d4a73ea6",
+      "size": 953,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a18a583ce5f8fb172f46eccce171a578d4a73ea6"
+    },
+    {
+      "path": "openai-responses-gpt5-functions-streaming/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d696ebdd9bb7e7343c50a0290fa1fac703bf125e",
+      "size": 9279,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d696ebdd9bb7e7343c50a0290fa1fac703bf125e"
+    },
+    {
+      "path": "openai-whisper",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fab9b84cdcf05c3ec8cd6fe5170dc1ba30db33d1",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/fab9b84cdcf05c3ec8cd6fe5170dc1ba30db33d1"
+    },
+    {
+      "path": "openai-whisper/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "377c3dcfd18acd1f45d6149cf4e454970b4eeaa8",
+      "size": 56,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/377c3dcfd18acd1f45d6149cf4e454970b4eeaa8"
+    },
+    {
+      "path": "openai-whisper/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aded78a0fa111226d6dc3996ffc7fd6cf1fafa9a",
+      "size": 6261,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/aded78a0fa111226d6dc3996ffc7fd6cf1fafa9a"
+    },
+    {
+      "path": "openai-whisper/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "pdf-qa",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b2c4d8faae56082c38f069c787f24fd7d74ba684",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/b2c4d8faae56082c38f069c787f24fd7d74ba684"
+    },
+    {
+      "path": "pdf-qa/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3673b18bc03471fb01051b8bc3eb084a8320f0a",
+      "size": 104,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b3673b18bc03471fb01051b8bc3eb084a8320f0a"
+    },
+    {
+      "path": "pdf-qa/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1185b11bb059929e31971c26ed0e36499b88f35",
+      "size": 1509,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c1185b11bb059929e31971c26ed0e36499b88f35"
+    },
+    {
+      "path": "pdf-qa/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac0a8280225ace1ca46052e76c8b55474491f1e8",
+      "size": 4208,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ac0a8280225ace1ca46052e76c8b55474491f1e8"
+    },
+    {
+      "path": "pdf-qa/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "pdf-qa/rendering.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e9def870e92b2326f9b1b372595c558954cd0b2",
+      "size": 230210,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8e9def870e92b2326f9b1b372595c558954cd0b2"
+    },
+    {
+      "path": "pdf-qa/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "420a27c884c725ee95f4d33425d1f9b48e72723a",
+      "size": 70,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/420a27c884c725ee95f4d33425d1f9b48e72723a"
+    },
+    {
+      "path": "pinecone",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "86aa0f71d50589dd6589daf19c7b2d8918bfd9be",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/86aa0f71d50589dd6589daf19c7b2d8918bfd9be"
+    },
+    {
+      "path": "pinecone/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3673b18bc03471fb01051b8bc3eb084a8320f0a",
+      "size": 104,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b3673b18bc03471fb01051b8bc3eb084a8320f0a"
+    },
+    {
+      "path": "pinecone/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b031adef5a1f33114e206709c6742774cf11af9",
+      "size": 1977,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0b031adef5a1f33114e206709c6742774cf11af9"
+    },
+    {
+      "path": "pinecone/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e37c50cd6015960aa9aeb85e33bf48bed8b1509",
+      "size": 2681,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8e37c50cd6015960aa9aeb85e33bf48bed8b1509"
+    },
+    {
+      "path": "pinecone/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "pinecone/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbf6fabd4e6f785bf851e7f4ffa5ba0511d742c7",
+      "size": 57,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fbf6fabd4e6f785bf851e7f4ffa5ba0511d742c7"
+    },
+    {
+      "path": "pyautogen",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0d9231d10c162bcc1ff0b30781da29d8dfcd1bf4",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/0d9231d10c162bcc1ff0b30781da29d8dfcd1bf4"
+    },
+    {
+      "path": "pyautogen/.env.sample",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97dbd79529e2c0aaf7a57d4c5bc041cf8b9eb1e5",
+      "size": 58,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/97dbd79529e2c0aaf7a57d4c5bc041cf8b9eb1e5"
+    },
+    {
+      "path": "pyautogen/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fcb48c4d9fe3d7df7093a54f36a22476859e51c",
+      "size": 18,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9fcb48c4d9fe3d7df7093a54f36a22476859e51c"
+    },
+    {
+      "path": "pyautogen/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a48a1f60bd823f2cc9b07868641840a9d5ae009",
+      "size": 2338,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3a48a1f60bd823f2cc9b07868641840a9d5ae009"
+    },
+    {
+      "path": "pyautogen/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a99981528121f5fefa2a2e199e4345c8051c73b2",
+      "size": 3587,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a99981528121f5fefa2a2e199e4345c8051c73b2"
+    },
+    {
+      "path": "pyautogen/async_app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6504b32c5f42eb4398ed1ca194cef9fbc86820ff",
+      "size": 3640,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/6504b32c5f42eb4398ed1ca194cef9fbc86820ff"
+    },
+    {
+      "path": "pyautogen/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "react-native-chat",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3a63e78d3cd2f7edcb5aa5658b42f5c48766d388",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/3a63e78d3cd2f7edcb5aa5658b42f5c48766d388"
+    },
+    {
+      "path": "react-native-chat/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a21a4d08ba117f64fe4a5dfbac2016a8b5e76877",
+      "size": 1807,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a21a4d08ba117f64fe4a5dfbac2016a8b5e76877"
+    },
+    {
+      "path": "react-native-chat/backend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d0a98c9b4b56e74ca86b45eb6c6efc5902cab7e5",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/d0a98c9b4b56e74ca86b45eb6c6efc5902cab7e5"
+    },
+    {
+      "path": "react-native-chat/backend/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d79f8470d77e4113b9a13c9614c0704b43205e40",
+      "size": 92,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d79f8470d77e4113b9a13c9614c0704b43205e40"
+    },
+    {
+      "path": "react-native-chat/backend/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3423c43fc08bc99108ca5e624b74b4d5737e1e85",
+      "size": 720,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3423c43fc08bc99108ca5e624b74b4d5737e1e85"
+    },
+    {
+      "path": "react-native-chat/backend/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36cd6dc6c36146322ad109066a96a8c5a46da1d0",
+      "size": 696,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/36cd6dc6c36146322ad109066a96a8c5a46da1d0"
+    },
+    {
+      "path": "react-native-chat/backend/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "react-native-chat/backend/cl_app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67020678d7dbf3c1144f8ef548e1a7071d04be1f",
+      "size": 1161,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/67020678d7dbf3c1144f8ef548e1a7071d04be1f"
+    },
+    {
+      "path": "react-native-chat/backend/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92801b98f985e39bd081a7649ca5eb6bd3750a96",
+      "size": 23,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/92801b98f985e39bd081a7649ca5eb6bd3750a96"
+    },
+    {
+      "path": "react-native-chat/react-native-client",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9559f1fc698315443b8cf1288a36d0743f256336",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/9559f1fc698315443b8cf1288a36d0743f256336"
+    },
+    {
+      "path": "react-native-chat/react-native-client/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0714414cfc22227be162a8541ef9f1289ebc80ba",
+      "size": 163,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/0714414cfc22227be162a8541ef9f1289ebc80ba"
+    },
+    {
+      "path": "react-native-chat/react-native-client/App.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa24cfe742443cb5511defce1a4ed43cb8860ff5",
+      "size": 1740,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fa24cfe742443cb5511defce1a4ed43cb8860ff5"
+    },
+    {
+      "path": "react-native-chat/react-native-client/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "150220ab11ee612aafdbcb556601b5e1ecb2de9e",
+      "size": 798,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/150220ab11ee612aafdbcb556601b5e1ecb2de9e"
+    },
+    {
+      "path": "react-native-chat/react-native-client/app.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f427916afaa3bfbf570103c02db54dc0fe6d99ca",
+      "size": 69,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f427916afaa3bfbf570103c02db54dc0fe6d99ca"
+    },
+    {
+      "path": "react-native-chat/react-native-client/babel.config.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2900afe9d85a54cf9552ec0b4107665c5c10e078",
+      "size": 107,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2900afe9d85a54cf9552ec0b4107665c5c10e078"
+    },
+    {
+      "path": "react-native-chat/react-native-client/chainlit.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f1d72f1a3debceb23e085aa3057ce67c3e03ba9",
+      "size": 95,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/6f1d72f1a3debceb23e085aa3057ce67c3e03ba9"
+    },
+    {
+      "path": "react-native-chat/react-native-client/components",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e71f29841ac908c8674e20bef830d28bdcb5f138",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/e71f29841ac908c8674e20bef830d28bdcb5f138"
+    },
+    {
+      "path": "react-native-chat/react-native-client/components/playground",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "89786fb9d80f15ee0483eb277958128fc9ea0ec0",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/89786fb9d80f15ee0483eb277958128fc9ea0ec0"
+    },
+    {
+      "path": "react-native-chat/react-native-client/components/playground/index.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e84232cc1b7a5c3d334e3b520ec7029f3dfab82",
+      "size": 2389,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9e84232cc1b7a5c3d334e3b520ec7029f3dfab82"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b22c412817f5d5a17273307e08726b159565dda0",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/b22c412817f5d5a17273307e08726b159565dda0"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "edd3863af128daca9364d9ae7f475b4cf90cd7ec",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/edd3863af128daca9364d9ae7f475b4cf90cd7ec"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abd4346b17f583d9155178b989261edad3220c2f",
+      "size": 111,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/abd4346b17f583d9155178b989261edad3220c2f"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/api",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "792dad283a98392f3763cebe388d1a231c573e40",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/792dad283a98392f3763cebe388d1a231c573e40"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/api/hooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "582001f5b3066484ccc8f39ec14aa3fe6c53352c",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/582001f5b3066484ccc8f39ec14aa3fe6c53352c"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/api/hooks/api.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83b16e4359956240cbbb7ed68d006741fe84d661",
+      "size": 1173,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/83b16e4359956240cbbb7ed68d006741fe84d661"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/api/hooks/auth.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e866ec0c594b70aab67e385be5e3115c5687d537",
+      "size": 2112,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e866ec0c594b70aab67e385be5e3115c5687d537"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/api/index.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f950b9c749db9ca0ab0622ef36ac3ffd30c8b6f",
+      "size": 6024,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/2f950b9c749db9ca0ab0622ef36ac3ffd30c8b6f"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/context.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ab8a88fa6de3c23c6543a0f39e7eda7738983f7",
+      "size": 282,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4ab8a88fa6de3c23c6543a0f39e7eda7738983f7"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42599509a468af08ed5aa3310462a695af0515da",
+      "size": 369,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/42599509a468af08ed5aa3310462a695af0515da"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/state.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34c85002835c5588da494d9d0a6af93a8a472f39",
+      "size": 4019,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/34c85002835c5588da494d9d0a6af93a8a472f39"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ee398999e7c00215a96361ecd9af4ed4acb07e85",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/ee398999e7c00215a96361ecd9af4ed4acb07e85"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/action.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "347270bb8e5cd06c599916eb9e5b84de18f115ac",
+      "size": 307,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/347270bb8e5cd06c599916eb9e5b84de18f115ac"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e99897fdddc58aeaec23c5e40f07d3f0b301eec",
+      "size": 1195,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8e99897fdddc58aeaec23c5e40f07d3f0b301eec"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/element.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d8e25ccd2dcdfb1cd2ad0bede14f40639237f48",
+      "size": 1543,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/1d8e25ccd2dcdfb1cd2ad0bede14f40639237f48"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/feedback.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79065e19097aeea2861773b057efaa901de851c0",
+      "size": 122,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/79065e19097aeea2861773b057efaa901de851c0"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/file.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af3fde1eba57530533bba9d37b999eccbf3aef84",
+      "size": 480,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/af3fde1eba57530533bba9d37b999eccbf3aef84"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/history.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a16c06723caf232713ecc4d29845c9833b93824d",
+      "size": 309,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a16c06723caf232713ecc4d29845c9833b93824d"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b817ccbdac44003f390c355362bcdc93700d6c8b",
+      "size": 232,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b817ccbdac44003f390c355362bcdc93700d6c8b"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/step.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "130e988ec2668f3cb26fa8caf8e70531467d0c6a",
+      "size": 676,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/130e988ec2668f3cb26fa8caf8e70531467d0c6a"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/thread.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe0cc2bbc227cc421cfbc075e692f81a0e75199d",
+      "size": 284,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/fe0cc2bbc227cc421cfbc075e692f81a0e75199d"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/types/user.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c9e4af69b7c6a35d7b28bc864ebd904c8cffe1b",
+      "size": 341,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9c9e4af69b7c6a35d7b28bc864ebd904c8cffe1b"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/useAudio.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c777a09ec605036d5f11734e734e27e81bfdaad3",
+      "size": 6045,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c777a09ec605036d5f11734e734e27e81bfdaad3"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/useChatData.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba3e37a98c4969d14bdd8a0af55da628acef8cf4",
+      "size": 1427,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ba3e37a98c4969d14bdd8a0af55da628acef8cf4"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/useChatInteract.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "102bb7c79e4f90ee67eb7b6f26d8030d457e1d54",
+      "size": 5180,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/102bb7c79e4f90ee67eb7b6f26d8030d457e1d54"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/useChatMessages.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3b1f5c9499987f71bde86f0ecff51e44acb03bb",
+      "size": 436,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/c3b1f5c9499987f71bde86f0ecff51e44acb03bb"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/useChatSession.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8816c85caa3d8d52fac8412085639718a0bf50fe",
+      "size": 8642,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/8816c85caa3d8d52fac8412085639718a0bf50fe"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/useConfig.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8021991363ab7f5b7630f8d9298d4aa8857792c",
+      "size": 752,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/a8021991363ab7f5b7630f8d9298d4aa8857792c"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa35cbb4f70213675d80884c0e1b52d44fff918a",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/aa35cbb4f70213675d80884c0e1b52d44fff918a"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/utils/group.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ece7d4be59eb1069d01ced2c04af04ef82f3fb18",
+      "size": 1360,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ece7d4be59eb1069d01ced2c04af04ef82f3fb18"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/utils/message.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fe1bd506b8282b5c660bc44dbfac6437ab27ee5",
+      "size": 6701,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9fe1bd506b8282b5c660bc44dbfac6437ab27ee5"
+    },
+    {
+      "path": "react-native-chat/react-native-client/libs/cl-sdk-1.2/utils/token.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3221bbf2d51e6d68471e30f5d5105dfe8204eeaf",
+      "size": 397,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3221bbf2d51e6d68471e30f5d5105dfe8204eeaf"
+    },
+    {
+      "path": "react-native-chat/react-native-client/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "735978ebb92b18884d5f0f5ea4d1ca2440b14459",
+      "size": 434658,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/735978ebb92b18884d5f0f5ea4d1ca2440b14459"
+    },
+    {
+      "path": "react-native-chat/react-native-client/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b62ae00f68caad94f9f2f118d8e4dd810ef6bd59",
+      "size": 1086,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b62ae00f68caad94f9f2f118d8e4dd810ef6bd59"
+    },
+    {
+      "path": "react-native-chat/react-native-client/screens",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7c034f5e42a4d00221ecdb51d05b9d58e7cccfb7",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7c034f5e42a4d00221ecdb51d05b9d58e7cccfb7"
+    },
+    {
+      "path": "react-native-chat/react-native-client/screens/ChainlitChat.tsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53e2fe05f8e8bd6908f82f1a20a7debfa076d291",
+      "size": 973,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/53e2fe05f8e8bd6908f82f1a20a7debfa076d291"
+    },
+    {
+      "path": "react-native-chat/react-native-client/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f368819fb61c75204b2a116c11c3fa4443f3d18",
+      "size": 192,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9f368819fb61c75204b2a116c11c3fa4443f3d18"
+    },
+    {
+      "path": "realtime-assistant",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7e0bec919352aa5f43e2227239a2514203947d36",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7e0bec919352aa5f43e2227239a2514203947d36"
+    },
+    {
+      "path": "realtime-assistant/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e24174e97a02899f4d9b369fb42780acbdd0bdd",
+      "size": 36,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/7e24174e97a02899f4d9b369fb42780acbdd0bdd"
+    },
+    {
+      "path": "realtime-assistant/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbbc5abc986d303e7ba9575c829058bda6ff5d61",
+      "size": 526,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/bbbc5abc986d303e7ba9575c829058bda6ff5d61"
+    },
+    {
+      "path": "realtime-assistant/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f17b670665d466e5b760487dc5c6bc89ba438db",
+      "size": 4163,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4f17b670665d466e5b760487dc5c6bc89ba438db"
+    },
+    {
+      "path": "realtime-assistant/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "realtime-assistant/realtime",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0bb7c15d4920750d62c0384da516658ac29eb31a",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/0bb7c15d4920750d62c0384da516658ac29eb31a"
+    },
+    {
+      "path": "realtime-assistant/realtime/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06dd866853e6dbf3062673389d571895211f8a72",
+      "size": 26171,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/06dd866853e6dbf3062673389d571895211f8a72"
+    },
+    {
+      "path": "realtime-assistant/realtime/tools.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d387d39daf1b6690e2160986a6a99ef9faf22c4c",
+      "size": 2216,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/d387d39daf1b6690e2160986a6a99ef9faf22c4c"
+    },
+    {
+      "path": "realtime-assistant/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "712c2d522e1b74f6d83d991a749eb34c7089237a",
+      "size": 49,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/712c2d522e1b74f6d83d991a749eb34c7089237a"
+    },
+    {
+      "path": "resume-chat",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ca7a6380f52951959d8432bab738eb32a68811a",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/2ca7a6380f52951959d8432bab738eb32a68811a"
+    },
+    {
+      "path": "resume-chat/.env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02225debf007febac9d05f70175fcea321f4154d",
+      "size": 37,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/02225debf007febac9d05f70175fcea321f4154d"
+    },
+    {
+      "path": "resume-chat/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91e52abd925d56df8083e59a9dbad436ad5c5355",
+      "size": 2392,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/91e52abd925d56df8083e59a9dbad436ad5c5355"
+    },
+    {
+      "path": "resume-chat/app_lean.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "585da20a8ee000cb400275e2f8a8eb3ac1c32967",
+      "size": 1601,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/585da20a8ee000cb400275e2f8a8eb3ac1c32967"
+    },
+    {
+      "path": "resume-chat/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "resume-chat/readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33e6db6f172169b2487625543b5167894c808f6d",
+      "size": 2120,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/33e6db6f172169b2487625543b5167894c808f6d"
+    },
+    {
+      "path": "reverse_proxy",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "064ef3145c86a39371d3f53fa6679fb8d28eab84",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/064ef3145c86a39371d3f53fa6679fb8d28eab84"
+    },
+    {
+      "path": "reverse_proxy/Caddyfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "525c6b9ac4af8ec9d59010ec9001f6841c9ed7c0",
+      "size": 84,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/525c6b9ac4af8ec9d59010ec9001f6841c9ed7c0"
+    },
+    {
+      "path": "reverse_proxy/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86df40032ea7252d0072358c55c83b7f0937cdfa",
+      "size": 423,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/86df40032ea7252d0072358c55c83b7f0937cdfa"
+    },
+    {
+      "path": "reverse_proxy/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a69aadea35625f9885addbc5b00053af7fda3fc",
+      "size": 312,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/9a69aadea35625f9885addbc5b00053af7fda3fc"
+    },
+    {
+      "path": "reverse_proxy/clapp.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30b319d04dd76d2a9bca89c0361bbdb486c20fd8",
+      "size": 236,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/30b319d04dd76d2a9bca89c0361bbdb486c20fd8"
+    },
+    {
+      "path": "reverse_proxy/pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b78d968a54efccd1c7df6fa4730d87fc3202b982",
+      "size": 220,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/b78d968a54efccd1c7df6fa4730d87fc3202b982"
+    },
+    {
+      "path": "reverse_proxy/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3a94bfc266773836419a0807524575758282d9a",
+      "size": 9,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/f3a94bfc266773836419a0807524575758282d9a"
+    },
+    {
+      "path": "reverse_proxy/start.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "03fd95a1ce45dffe3d587a554857e337c1d8ca43",
+      "size": 937,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/03fd95a1ce45dffe3d587a554857e337c1d8ca43"
+    },
+    {
+      "path": "suggestions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "233c2919137685f38a916c4fe2f92b9e458e8c67",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/233c2919137685f38a916c4fe2f92b9e458e8c67"
+    },
+    {
+      "path": "suggestions/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfee2ab8d76f4ca8a3952761fb75524bfc4af61a",
+      "size": 299,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/dfee2ab8d76f4ca8a3952761fb75524bfc4af61a"
+    },
+    {
+      "path": "suggestions/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b45809f1562cdb602b969ec1ab26c7208d7b1ad",
+      "size": 259,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/6b45809f1562cdb602b969ec1ab26c7208d7b1ad"
+    },
+    {
+      "path": "suggestions/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "suggestions/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e1b32a00f3c5e32a1829514e4235e30d33ef33e7",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/e1b32a00f3c5e32a1829514e4235e30d33ef33e7"
+    },
+    {
+      "path": "suggestions/public/elements",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa763053978fbf63a9cf9f26bf72c5a1e67299b4",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/fa763053978fbf63a9cf9f26bf72c5a1e67299b4"
+    },
+    {
+      "path": "suggestions/public/elements/FollowUpSuggestions.jsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "969fee23b8fa95a0f6e6ee452b41b76a1618c8fc",
+      "size": 1723,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/969fee23b8fa95a0f6e6ee452b41b76a1618c8fc"
+    },
+    {
+      "path": "window-message",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "914917cbe16da8307128fa605b92a18dd0db7304",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/914917cbe16da8307128fa605b92a18dd0db7304"
+    },
+    {
+      "path": "window-message/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c8ca1bb4fb2d3c2a697064685ae9818177fb8ca",
+      "size": 564,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/3c8ca1bb4fb2d3c2a697064685ae9818177fb8ca"
+    },
+    {
+      "path": "window-message/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccb85a2125cefa8e4bdbf2ee82a50d5cc67d9161",
+      "size": 507,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/ccb85a2125cefa8e4bdbf2ee82a50d5cc67d9161"
+    },
+    {
+      "path": "window-message/chainlit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4507ac4676a6387c4b52a0d1111e94753a102b32",
+      "size": 761,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/4507ac4676a6387c4b52a0d1111e94753a102b32"
+    },
+    {
+      "path": "window-message/frontend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "df7f28845b963c4f3c51f7506e967f23befac009",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/df7f28845b963c4f3c51f7506e967f23befac009"
+    },
+    {
+      "path": "window-message/frontend/dist",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7c65ab4ebc32727c337126adb9e60114a7582500",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/7c65ab4ebc32727c337126adb9e60114a7582500"
+    },
+    {
+      "path": "window-message/frontend/dist/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e"
+    },
+    {
+      "path": "window-message/frontend/dist/assets/.gitkeep",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "window-message/frontend/dist/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6088633f4d2c85ad577a58b9c8cbbd5068b7becf",
+      "size": 786,
+      "url": "https://api.github.com/repos/Chainlit/cookbook/git/blobs/6088633f4d2c85ad577a58b9c8cbbd5068b7becf"
+    }
+  ],
+  "truncated": false
+}
