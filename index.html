@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><title>Chainlit — Cookbook Explorer</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<aside class="sidebar">
+  <a class="brand" href="#"><span class="brand-icon">c</span>chainlit<span class="brand-dot">●</span></a>
+  <div class="workspace">COOKBOOK <span>EXPLORER</span></div>
+  <div class="nav-label">БИБЛИОТЕКА</div>
+  <nav id="categories" aria-label="Категории"></nav>
+  <div class="nav-label second-label">КОЛЛЕКЦИЯ</div>
+  <button class="nav-button" id="favorites"><span>♡</span> Избранное <small id="favorite-count">0</small></button>
+  <label class="archive-toggle"><input type="checkbox" id="archive"> Включить архив</label>
+  <div class="sidebar-bottom"><div class="live-dot"></div><strong>Открыто для экспериментов</strong><p>Идеи из официального cookbook.<br>Без ключей. Без установки.</p><a href="https://github.com/Chainlit/cookbook" target="_blank" rel="noopener">Репозиторий на GitHub ↗</a></div>
+</aside>
+<main>
+  <header><div class="breadcrumb">Ресурсы <span>/</span> <strong>Cookbook</strong></div><div class="header-right"><span class="offline-badge">● &nbsp; Локальный playground</span><a href="https://docs.chainlit.io" target="_blank" rel="noopener">Документация ↗</a></div></header>
+  <section class="hero"><div class="hero-copy"><div class="eyebrow"><span></span> BUILD SOMETHING CONVERSATIONAL</div><h1>Маленькие примеры.<br><span>Большие возможности.</span></h1><p>Исследуйте, пробуйте и собирайте свои AI-приложения.<br>Весь Chainlit cookbook — в одной интерактивной библиотеке.</p><div class="hero-actions"><button id="explore" class="primary">Найти свой пример <span>↘</span></button><span class="hero-note">Python внутри. Вдохновение снаружи.</span></div></div><div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span class="spark spark-one">✳</span><span class="spark spark-two">+</span><div class="code-card"><div class="code-top"><i></i><i></i><i></i><span>app.py</span></div><pre><b>import</b> chainlit <b>as</b> cl
+
+<em>@cl.on_message</em>
+<b>async def</b> <strong>main</strong>(message):
+  <b>await</b> cl.Message(
+    content=<em>"Hello, possibilities."</em>
+  ).send()</pre><div class="art-message"><span>✳</span> Ваша следующая идея начинается здесь</div></div><span class="floating-tag">&lt;/&gt; open source</span></div></section>
+  <section class="library" id="library"><div class="section-heading"><div><div class="eyebrow muted">ОТ ИДЕИ К ПЕРВОМУ СООБЩЕНИЮ</div><h2 id="section-title">Все примеры <span id="result-count"></span></h2></div><div class="view-label">▦ &nbsp; Коллекция рецептов</div></div><div class="toolbar"><label class="search-box"><span>⌕</span><input id="search" type="search" placeholder="Поиск по названию, технологии или идее…" aria-label="Поиск примеров"><kbd>/</kbd></label><select id="sort" aria-label="Сортировка"><option value="featured">Сначала рекомендуемые</option><option value="name">По названию A–Z</option></select></div><div id="chips" class="chips"></div><div id="grid" class="grid"></div><div id="empty" hidden class="empty"><h3>Пока ничего не нашлось</h3><p>Попробуйте другой запрос или включите архив.</p><button id="reset" class="primary">Сбросить фильтры</button></div></section>
+  <footer><span>Сделано для любопытных. На основе Chainlit Cookbook.</span><span id="snapshot"></span></footer>
+</main>
+<dialog id="detail"><div class="modal-top"><div><span class="eyebrow">RECIPE PLAYGROUND</span><h2 id="detail-title"></h2></div><button id="close" class="icon-button" aria-label="Закрыть">×</button></div><p id="detail-description"></p><div class="tabs" role="tablist"><button role="tab" data-tab="demo" aria-selected="true">◉ &nbsp; Попробовать</button><button role="tab" data-tab="code" aria-selected="false">&lt;/&gt; &nbsp; Исходный код</button><button role="tab" data-tab="setup" aria-selected="false">↗ &nbsp; Запуск</button></div><div id="panel"></div><div class="modal-bottom"><span>Оригинальные примеры • интерактивные UI-эскизы</span><a id="source-link" target="_blank" rel="noopener">Открыть на GitHub ↗</a></div></dialog>
+<div id="toast" role="status"></div>
+<script src="data.js"></script><script src="app.js"></script>
+</body></html>
